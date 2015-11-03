@@ -1,0 +1,17 @@
+#head {
+	color: Blue;
+	text-align: center;
+}
+#createform {
+	background-color: #b0c4de;
+	position: absolute;
+	right: 5px;
+}
+
+#button {
+	position:absolute;
+	top:500px;	
+}
+p {
+	font-size:20px;
+}
